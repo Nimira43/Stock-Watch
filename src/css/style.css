@@ -1,0 +1,10 @@
+body {
+    height: 100%;
+}
+
+.short-news {
+    position: sticky;
+    top: 0;
+    left: 0;
+    height: 5vh;
+}
